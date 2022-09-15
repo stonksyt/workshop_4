@@ -1,0 +1,28 @@
+#schaakbord {
+    width: 484px;
+    height: 484px;
+    border: 2px solid #000; 
+    padding-left: 3px;
+    padding-top: 3px;
+}
+
+.wit {
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    margin-left: -3px;
+    margin-top: -3px;
+}
+
+.grijs {
+    width: 60px;
+    height: 60px;
+    background-color: #777;
+    display: inline-block;
+    margin-left: -3px;
+    margin-top: -3px;
+}
+
+img {
+    width: 60px;
+}
